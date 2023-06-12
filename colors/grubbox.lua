@@ -1,0 +1,1 @@
+require 'grubbox'.load {}
